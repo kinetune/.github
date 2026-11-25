@@ -35,7 +35,7 @@ Kinetune makes everything a release needs from one song: an AI music video with 
 
 Everything in the app is also an API call, so agents, scripts and automations can make the same videos.
 
-| | |
+| Repo | What it is |
 |---|---|
 | [**skills**](https://github.com/kinetune/skills) | The Kinetune skill and plugin for Claude Code, Codex, Cursor and other agents, plus the hosted MCP server at `https://kinetune.com/mcp` |
 | [**cli**](https://github.com/kinetune/cli) | `npx @kinetune/cli`: every operation from the terminal, JSON when piped |
